@@ -1,0 +1,16 @@
+ => 
+[[32m#<Category:0x00007f0f1196eb10[0m
+  id: [34m[1m8[0m,
+  name: [31m[1m"[0m[31mtest[0m[31m[1m"[0m,
+  created_at: Mon, 29 Apr 2024 12:04:42.472758000 UTC +00:00,
+  updated_at: Mon, 29 Apr 2024 12:04:42.472758000 UTC +00:00[32m>[0m,
+ [32m#<Category:0x00007f0f1196e9d0[0m
+  id: [34m[1m17[0m,
+  name: [31m[1m"[0m[31mHavana[0m[31m[1m"[0m,
+  created_at: Tue, 30 Apr 2024 11:53:48.975993000 UTC +00:00,
+  updated_at: Tue, 30 Apr 2024 11:53:48.975993000 UTC +00:00[32m>[0m,
+ [32m#<Category:0x00007f0f1196e890[0m
+  id: [34m[1m17[0m,
+  name: [31m[1m"[0m[31mHavana[0m[31m[1m"[0m,
+  created_at: Tue, 30 Apr 2024 11:53:48.975993000 UTC +00:00,
+  updated_at: Tue, 30 Apr 2024 11:53:48.975993000 UTC +00:00[32m>[0m] 
