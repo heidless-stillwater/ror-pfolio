@@ -12,7 +12,7 @@
 #rvm pkg install openssl
 
 /bin/zsh --login
-rvm install 2.6.3 --with-openssl-dir=$HOME/.rvm/usr
+rvm install 3.2.2 --with-openssl-dir=$HOME/.rvm/usr
 export PATH="/home/heidless/.rvm/gems/ruby-3.2.2/bin:$PATH"
 
 /bin/zsh --login

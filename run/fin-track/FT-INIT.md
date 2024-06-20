@@ -10,7 +10,7 @@
 - ## ruby
 ```
 #rvm pkg install openssl
-
+`
 /bin/zsh --login
 rvm install 2.6.3 --with-openssl-dir=$HOME/.rvm/usr
 
